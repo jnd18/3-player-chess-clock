@@ -1,0 +1,10 @@
+.clock {
+    height: 400px;
+    width: 500px;
+    font-size: 12em;
+}
+
+#grid {
+    display: grid;
+    grid-template-columns: 500px 500px 500px;
+}
